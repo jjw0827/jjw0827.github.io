@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>테트리스</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <div class="wrapper">
+    <div class="score">0</div>
+    <div class="playground">
+      <ul><!--하나의 ul이 테트리스게임의 칸들이 될것이고 li줄이 20개가 들어갈 것이다. 각 li에는 li를 10개씩 가지고 있는 ul이 들어갈 것이다.-->
+      </ul>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
